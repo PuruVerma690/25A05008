@@ -6,7 +6,7 @@ Personal Projects
 
 ## 📦 Hosted Url
 
-* [Download the latest release](https://puruverma690.github.io/25A05008/)
+* [Url](https://puruverma690.github.io/25A05008/)
 
 ---
 
